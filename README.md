@@ -6,6 +6,14 @@ I am QA Engineer. I am passionate about software testing and I would like to tes
   <img align="left" alt="Eduardo Macetas | Twitter" width="22px" src="https://raw.githubusercontent.com/eduardomacetas/eduardomacetas/master/assets/twitter.png" />
 </a>
 
+<a href="https://www.instagram.com/eduardomacetas/">
+  <img align="left" alt="Eduardo Macetas | Instagram" width="22px" src="https://raw.githubusercontent.com/eduardomacetas/eduardomacetas/master/assets/instagram.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/jorge-eduardo-macetas-huahuala-6bb797190/">
+  <img align="left" alt="Eduardo Macetas | LinkendIn" width="22px" src="https://raw.githubusercontent.com/eduardomacetas/eduardomacetas/master/assets/linkedln.png" />
+</a>
+
 <!--
 **eduardomacetas/eduardomacetas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
