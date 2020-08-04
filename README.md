@@ -14,6 +14,10 @@ I am QA Engineer. I am passionate about software testing and I would like to tes
   <img align="left" alt="Eduardo Macetas | LinkendIn" width="22px" src="https://raw.githubusercontent.com/eduardomacetas/eduardomacetas/master/assets/linkedln.png" />
 </a>
 
+<br />
+
+![](https://komarev.com/ghpvc/?username=eduardomacetas&color=brightgreen&style=flat)
+
 <!--
 **eduardomacetas/eduardomacetas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
