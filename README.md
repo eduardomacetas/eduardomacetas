@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Eduardo 👋
+
+I am QA Engineer. I am passionate about software testing and I would like to test different applications in order to improve their quality and to continue improving my testing skills.
+
+<a href="https://twitter.com/eduardo_macetas">
+  <img align="left" alt="Eduardo Macetas | Twitter" width="22px" src="https://raw.githubusercontent.com/eduardomacetas/eduardomacetas/master/assets/twitter.png" />
+</a>
 
 <!--
 **eduardomacetas/eduardomacetas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
