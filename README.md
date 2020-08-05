@@ -1,5 +1,7 @@
 ### Hi there, I'm Eduardo 👋
 
+![](https://komarev.com/ghpvc/?username=eduardomacetas&color=brightgreen&style=flat)
+
 I am QA Engineer. I am passionate about software testing and I would like to test different applications in order to improve their quality and to continue improving my testing skills.
 
 <a href="https://twitter.com/eduardo_macetas">
@@ -13,10 +15,6 @@ I am QA Engineer. I am passionate about software testing and I would like to tes
 <a href="https://www.linkedin.com/in/jorge-eduardo-macetas-huahuala-6bb797190/">
   <img align="left" alt="Eduardo Macetas | LinkendIn" width="22px" src="https://raw.githubusercontent.com/eduardomacetas/eduardomacetas/master/assets/linkedln.png" />
 </a>
-
-<br />
-
-![](https://komarev.com/ghpvc/?username=eduardomacetas&color=brightgreen&style=flat)
 
 <!--
 **eduardomacetas/eduardomacetas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
